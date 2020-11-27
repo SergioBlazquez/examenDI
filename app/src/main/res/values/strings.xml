@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">examenDI</string>
+    <string name="images">Images</string>
+    <string name="browse_files_on_phone">BROWSE FILES ON PHONE</string>
+    <string name="recent_files_on_phone">RECENT FILES ON PHONE</string>
+    <string name="documents">Documents</string>
+    <string name="video">Video</string>
+    <string name="audio">Audio</string>
+</resources>
